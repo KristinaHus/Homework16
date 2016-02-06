@@ -1,0 +1,2 @@
+To start this project you'll need jQuery, for this you can use CDN <code>src="//code.jquery.com/jquery-1.12.0.min.js"</code>
+in your <code>head</code>, or use command <code>bower install</code> in your terminal.
