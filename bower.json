@@ -1,0 +1,21 @@
+{
+  "name": "Homework16",
+  "homepage": "https://github.com/kina4smile/Homework16",
+  "authors": [
+    "Kina4smile <kina.girl@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
